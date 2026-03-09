@@ -51,7 +51,6 @@ print(f"  Синтетика:   мин={synthetic['hours-per-week'].min()}, ма
 synthetic.to_csv('data/synthetic_adult.csv', index=False)
 print("\n Синтетические данные сохранены в data/synthetic_adult.csv")
 ```
-
 Результат: <br>
 
 ```
