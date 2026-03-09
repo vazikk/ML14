@@ -1,7 +1,8 @@
 # ML14
 
 1) Использовать GANs или VAEs для генерации синтетических данных <br>
-   Ипользовал gan <br>
+
+Ипользовал gan <br>
 
 ```
 # Импорты
@@ -51,7 +52,7 @@ synthetic.to_csv('data/synthetic_adult.csv', index=False)
 print("\n Синтетические данные сохранены в data/synthetic_adult.csv")
 ```
 
-Результ: <br>
+Результат: <br>
 
 ```
 ШАГ 1: Загружаем реальные данные
